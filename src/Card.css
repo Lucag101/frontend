@@ -1,0 +1,6 @@
+.card {
+    min-width: 30%;
+    border: 15px solid rgb(78, 79, 82);
+    /* margin: 20px; */
+    background-color: rgb(190, 190, 190);
+  }
